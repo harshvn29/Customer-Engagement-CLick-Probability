@@ -1,0 +1,14 @@
+# Dataset (too large for GitHub - download from Kaggle)
+events.csv
+item_properties_part1.csv
+item_properties_part2.csv
+category_tree.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
