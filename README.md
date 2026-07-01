@@ -128,6 +128,4 @@ python customer_engagement_modeling.py
 
 ---
 
-## Author
 
-**Harshit** | [GitHub](https://github.com/harshitd697)
